@@ -17,6 +17,13 @@ public class Githubproyect {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("proyecto github");
+        System.out.println("proyecto github");
+        System.out.println("proyecto github");
+        System.out.println("proyecto github");
+        System.out.println("proyecto github");
+        System.out.println("proyecto github");
+        System.out.println("proyecto github");
+        System.out.println("proyecto github");
     }
     
 }

@@ -20,6 +20,7 @@ public class Githubproyect {
         System.out.println("proyecto github");
         System.out.println("proyecto github");
         System.out.println("proyecto github");
+        System.out.println("saludos desde la master de Diego");
        
     }
     

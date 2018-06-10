@@ -18,12 +18,7 @@ public class Githubproyect {
         // TODO code application logic here
         System.out.println("proyecto github");
         System.out.println("proyecto github");
-        System.out.println("proyecto github");
-        System.out.println("proyecto github");
-        System.out.println("proyecto github");
-        System.out.println("proyecto github");
-        System.out.println("proyecto github");
-        System.out.println("proyecto github");
+        
     }
     
 }

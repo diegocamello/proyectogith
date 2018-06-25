@@ -16,8 +16,7 @@ public class Githubproyect {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mundoooo");
-        System.out.println("mundo!");
+        System.out.println("Lo único que quiero que este en esta rama es esto!");
         
     }
     

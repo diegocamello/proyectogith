@@ -17,6 +17,7 @@ public class Githubproyect {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("yo trabajo en github!!");
+        System.out.println("yo trabajo en github desde la beta!!");
     }
     
 }
